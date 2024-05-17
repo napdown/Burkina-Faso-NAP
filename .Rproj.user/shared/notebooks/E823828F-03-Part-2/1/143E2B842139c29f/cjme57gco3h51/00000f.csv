@@ -1,0 +1,14 @@
+"0","library(readxl)"
+"0","library(knitr)"
+"0","library(kableExtra)"
+"0","Table_12 <-(read_excel("".Rproj.user/Tables/Table 12.xlsx""))"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m `` -> `...3`[39m
+"
+"0","column_widths <- rep(""30em"", ncol(Table_12))"
+"0","col_names <- c(""Climate Risks"", "" "", ""Accomodations"", ""Description"", ""Expected Impacts"", ""Timeline"")"
+"0","Table_12[is.na(Table_12)] <- """""
+"0","kable(Table_12, col.names = col_names, escape = FALSE) %>%"
+"0","  kable_styling(full_width = FALSE, position = ""left"", latex_options = ""hold_position"", bootstrap_options = ""condensed"") %>%"
+"0","  add_header_above(c(""Table 12: Synthesis of adaptation measures and their impacts in the infrastructure and housing sector"" = 6)) %>%"
+"0","  column_spec(column = 1:ncol(Table_12), width = column_widths)"

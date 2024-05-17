@@ -1,0 +1,14 @@
+"0","library(readxl)"
+"0","library(knitr)"
+"0","library(kableExtra)"
+"0","Table_6 <-(read_excel("".Rproj.user/Tables/Table 6.xlsx""))"
+"1","[38;5;232mNew names:
+[36m•[38;5;232m `` -> `...3`[39m
+"
+"0","column_widths <- rep(""30em"", ncol(Table_6))"
+"0","col_names <- c(""Climate Risks"", "" "", ""Accomodations"", ""Description"", ""Expected Impacts"", ""Timeline"")"
+"0","Table_6[is.na(Table_6)] <- """""
+"0","kable(Table_6, col.names = col_names, escape = FALSE) %>%"
+"0","  kable_styling(full_width = FALSE, position = ""left"", latex_options = ""hold_position"", bootstrap_options = ""condensed"") %>%"
+"0","  add_header_above(c(""Table 6: Synthesis of adaptation measures and their impacts in the water resources sector"" = 6)) %>%"
+"0","  column_spec(column = 1:ncol(Table_6), width = column_widths)"
