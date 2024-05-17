@@ -1,0 +1,581 @@
+# NAP implementation planning and strategy
+
+## NAP guiding principles
+
+The formulation of Burkina Faso's National Climate Change Adaptation Plan (NAP) was made with reference to the guidance of the Least Developed Countries Expert Group, carried out in accordance with decision 1/CP.16. The formulation, implementation and monitoring and evaluation of the NAP is based on principles whose choice has been guided by its adequacy with those mentioned in the UNFCCC framework document and those mentioned in certain strategic policy and orientation documents at the national level, in particular the National Prospective Study, the second National Economic and Social Development Plan (PNDES II), the Action Plan for the Stabilization and Development of the Transition (PA-SDT) and the National Sustainable Development Policy (PNDD).
+
+These guiding principles are listed as follows:
+
+-   **Participation:** Climate change knows no sectoral boundaries, let alone administrative boundaries. Given their scope, it is therefore important to seek the involvement of all development actors at different scales, from the identification of adaptation actions to their implementation. The successful implementation of the NAP requires the availability and access of stakeholders to scientific and technical information and data is very essential to guide practical intervention choices. The opinions and priorities of the beneficiaries will be taken into account in the process of operationalizing the options and adaptation measures recommended in accordance with the regulations in force;
+
+-   **Coherence of interventions:** This principle implies that actions must be carried out in a coherent and concerted manner with a view to obtaining more convincing results. The transversality of climate change implies actions in several sectors and mobilizing both public and private actors. Thus, siloed actions can have unintended adverse consequences. In order to avoid such a situation, the search for synergy, the establishment of public-private partnerships and a "system" approach must be at the heart of the definition and implementation of adaptation actions. Coherence is therefore essential in the implementation of the NAP to ensure that it complies with and corresponds to the development priorities defined at the national level but also to the modalities of effective intervention required;
+
+-   **Empowerment of stakeholders:** Empowerment of stakeholders is an essential step in achieving results. It is the result of the participatory approach. In order to ensure effectiveness and efficiency in achieving the objectives assigned to the NAP, the effective involvement of all actors in preparing and leading actions leading to change is essential. The essential characteristic of accountability is to involve and engage the actors involved in the implementation of the strategy in relevant actions likely to bring about changes in behaviour;
+
+-   **Decentralization of actions:** Since 2004, Burkina Faso has implemented decentralization, which implies that development must also be thought of and managed at a lower level, the commune. As a result, development must be based on local potential, which is largely dependent on natural resources that are highly sensitive to local change. Thus, the issue of adaptation to climate change must now be taken into account in the elaboration and implementation of local development policies so that development efforts are not in vain. Local authorities will identify the adaptation options to be taken to counter the effects of climate change within their territorial boundaries and will take charge of them through Regional and Communal Adaptation Plans;
+
+-   **Taking into account gender and inclusion:** The adaptation options identified in the NAP require the participation of men and women in actions for greater relevance and significant impacts. Therefore, in view of the increased vulnerability of women to the adverse effects of climate change and their participation in development, an approach based on partnership, the promotion of social dialogue, the reduction of inequalities, the development of the adaptive capacities of all social strata, especially the most vulnerable, and the pre-eminence of good governance is necessary;
+
+-   **Equity:** The search for equity, particularly social and environmental equity, in the implementation of the NAP must be required to ensure the coherence and continuity of the sustainability of interventions. This principle guarantees the reduction of social and regional inequalities and national solidarity, which will be the determining thread to ensure intra- and inter-generational equity, gender consideration, as well as the consideration of the specificities of regions and localities by enhancing their potential, for more spatial equity, more social cohesion and peace;
+
+-   **Partnership and subsidiarity:** There is a need for a permanent dialogue between representatives of the different groups of actors in a given development sector. The partnership will enable the synergy and co-financing of the NAP's actions. The partnership will have to take the form of the judicious involvement of local government and private sector actors through the strengthening of the Public-Private Partnership (PPP), civil society and TFPs in the implementation of the actions chosen. Isolated and sectoral interventions have indeed shown their inadequacies in the search for coherence and effectiveness;
+
+-   **Results-Based Management:** The application of results-based management (RBM) is more than beneficial, especially as it improves efficiency and accountability practices in the planning, implementation, monitoring and evaluation of public policies, with a focus on the achievement of realistically defined results. In addition, transparency and accountability, which are fundamental elements of RBM, are essential for achieving development results, as they help to build trust and ensure the full participation of actors in the achievement of the defined objectives. Burkina Faso has an MRV framework and this NAP is part of this dynamic;
+
+-   **Sustainability:** The sustainability of the NAP's actions implies the rational use of "natural" resources, taking into account the needs of current generations without compromising those of future generations. Sustainability takes into account economic, social, environmental and cultural constraints and promotes responsible production and consumption patterns, solidarity, precaution, participation and responsible commitment.
+
+-   **Proactivity and economic intelligence:** The implementation of the NAP must be part of a forward-looking approach, at the level of all actors, in order to face threats of all kinds and to exploit the best opportunities offered, in the short, medium and long term. Proactivity, in the current context of the security challenge, presupposes that all development actors must act with a view to preventing and consolidating security. From then on, proactivity will be based on Economic Intelligence (EI) as a mode of governance based on the monitoring, exploitation and protection of strategic information, the control of risks (security, economic, etc.) and influence on the national and international environment.
+
+## Vision and strategic directions
+
+### Vision of the NAP
+
+In addition to these guiding principles, in order to better guide the actions to be implemented within the framework of the NAP, the following vision was formulated: **"Burkina Faso manages its economic and social development more effectively through the implementation of planning mechanisms and measures that take into account resilience and adaptation to climate change by 2050"**.
+
+### Objectives
+
+Burkina Faso's NAP aligns with the UNFCCC guidelines, which set the following overall objectives:
+
+-   reduce vulnerability to the impacts of climate change by building adaptive and resilience capacities;
+
+-   facilitate the integration of climate change adaptation, in a coherent manner, into new or existing policies, programmes or activities, into specific development planning processes and strategies within relevant sectors and at different levels.
+
+Based on these global objectives of the convention, Burkina Faso's NAP has set objectives for long-term climate adaptation.
+
+These objectives are in line with the global goal on adaptation and those of the current national development frameworks, in particular the National Prospective Survey, the PNDES II and the PA-SDT. As a reminder, the global goal aims to guide efforts and improve adaptive capacity, as well as build resilience and reduce vulnerability to climate change.
+
+**➢ Overall Objective**
+
+The overall objective of the NAP is to strengthen the resilience of people and ecosystems to climate change for inclusive and sustainable growth in Burkina Faso.
+
+**➢ Specific Objectives**
+
+Specifically, the NAP aims to:
+
+-   strengthen the adaptive capacities of people and ecosystems;
+
+-   ensure the systematic integration of climate change adaptation into planning and budgeting at the national and local levels;
+
+-   improving the mobilization of climate change adaptation finance;
+
+-   promote research and development, local knowledge, know-how and endogenous best practices related to climate resilience, taking into account gender equality;
+
+-   improving the governance of climate change adaptation.
+
+## Adaptation options by sector
+
+The sectors of activity in the context of climate change adaptation options are based on the level of vulnerability. The categorization of climate risk factors in this NAP, namely drought, floods and extreme heat, has a significant impact on the sectors of activity in Burkina Faso. In accordance with vulnerability studies on the sectors of activity of the National Programme of Action on Adaptation (NAPA) to climate variability and change, water resources, agriculture, livestock and forestry are the sectors most vulnerable to climate change (MECV, 2007). A similar result was obtained in the context of the study of the vulnerability of the different development sectors of the Central Plateau (SP/CNDD, 2023).
+
+However, other sectors appear in the vulnerability study in the Central Plateau such as health, energy and infrastructure. The vulnerability of these sectors of activity was established by aggregating the results of the various social surveys, climate risks and the population's ability to adapt to climate change. In this NAP, priority sectors have been identified based on national benchmarks such as the PNDES II, the first NAP, the PNDD and the vulnerability studies of the Regional Climate Change Adaptation Plan for the Central Plateau. They are presented as follows: 1) water resources; 2) agriculture; 3) Livestock and fisheries resources 4) Environment and natural resources; 5) health; 6) energy and 7) infrastructure and housing.
+
+For each of these sectors, a list of concrete measures or adaptation options has been developed. These adaptation measures are partially similar to those of the previous NAP. However, budgetary constraints, technical and institutional capacities, and governance issues require prioritization in order to focus efforts (human, technical and financial) on adaptation measures with very high implementation potential. Adaptation options for each sector were selected based on criteria defined in Figure 22. This analysis made it possible to consider the various financing options available and the degree of technical feasibility of the various options analyzed. It also ensured the coherence of the selected actions with national adaptation priorities and national sustainable development goals. It is an objective method, whereby it is possible to assign a higher priority to measures based on the score obtained according to predefined criteria.
+
+![**Figure 22: Criteria for Selecting Adaptation Options**](Figures%20and%20Photos/Figure%2022.png)
+
+*Source: Consultant for the revision of the NAP*
+
+### Water resources sector
+
+The overall objective of the NAP in the water resources sector is to: **"Strengthen the resilience of water resources to the adverse effects of climate change"**.
+
+Specifically, these are:
+
+-   strengthen the resilience of water resource mobilization structures;
+
+-   ensure integrated water resources management;
+
+-   improve knowledge of water resources.
+
+The adaptation measures being considered and their impacts are described below.
+
+```{r Table_6, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_6 <-(read_excel(".Rproj.user/Tables/Table 6.xlsx"))
+column_widths <- rep("30em", ncol(Table_6))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_6[is.na(Table_6)] <- ""
+kable(Table_6, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 6: Synthesis of adaptation measures and their impacts in the water resources sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_6), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Agriculture sector
+
+The overall objective of the NAP in the agriculture sector is to **"strengthen the resilience of farms to the adverse effects of climate change"**.
+
+Specifically, these are:
+
+-   restore soil fertility to limit its continued degradation;
+
+-   improve agricultural productivity;
+
+-   strengthen the resilience capacities of populations affected by disasters (floods, drought, massive predator attacks, etc.);
+
+-   develop early warning systems for efficient management of climate variability and change.
+
+The adaptation measures being considered and their impacts are described below.
+
+```{r Table_7, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_7 <-(read_excel(".Rproj.user/Tables/Table 7.xlsx"))
+column_widths <- rep("30em", ncol(Table_7))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_7[is.na(Table_7)] <- ""
+kable(Table_7, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 7: Synthesis of adaptation measures and their impacts in the agriculture sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_7), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Livestock sector and fisheries resources
+
+The NAP for the livestock and fisheries sector has set an overall objective of **"reducing the vulnerability of agro-pastoralists and pastoral and fisheries resources to the adverse effects of climate change"**.
+
+Specifically, these are:
+
+-   improve animal and fisheries health;
+
+-   increase the productivity of animal and fisheries resources;
+
+-   improve the availability and accessibility of animal feed;
+
+In the area of livestock and fisheries resources, adaptation measures and expected impacts are described below.
+
+```{r Table_8, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_8 <-(read_excel(".Rproj.user/Tables/Table 8.xlsx"))
+column_widths <- rep("30em", ncol(Table_8))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_8[is.na(Table_8)] <- ""
+kable(Table_8, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 8 : Synthesis of adaptation measures and their impacts in the livestock and fisheries resources sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_8), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Environment/Natural Resources Sector
+
+The overall objective of the NAP for the environment and natural resources sector is to **"Strengthen the adaptive capacities of forest ecosystems, including wildlife, to the adverse effects of climate change"**.
+
+Specifically, these are:
+
+-   strengthen the adaptive capacity of wildlife resources;
+
+-   improve the conservation and protection of forest and wildlife resources;
+
+-   promote research and development actions and resilient practices to increase forest resources.
+
+For the Environment/Natural Resources sector, adaptation measures and their impacts are described below.
+
+```{r Table_9, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_9 <-(read_excel(".Rproj.user/Tables/Table 9.xlsx"))
+column_widths <- rep("30em", ncol(Table_9))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_9[is.na(Table_9)] <- ""
+kable(Table_9, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 9: Synthesis of adaptation measures and their impacts in the Environment/Natural Resources sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_9), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Health sector
+
+#### Adaptation Priority Areas
+
+The expected adverse effects of climate change call for targeted actions to reduce them. Thus, the overall objective of **"Strengthening the capacity of the health sector to adapt to climate change, for better protection of the population"** has been set for the sector in the face of the effects of climate change. Depending on the foreseeable climate shocks and their impacts, the proposed adaptation actions are as follows:
+
+-   improve the planning system within the Ministry of Health (MOH) in a gender- and equity-sensitive manner;
+
+-   establish/strengthen appropriate frameworks for consultation, health development planning and communication between the MOH and other actors at all levels;
+
+-   develop a national strategy for continuing education with consolidated plans for continuing education at all levels of the health system;
+
+-   implement communication plans for health;
+
+-   strengthen the surveillance system at all levels;
+
+-   build new health infrastructure that meets standards by level;
+
+-   strengthen the operational capacity of the MS in research;
+
+-   advocate for an increase in the share of the state budget allocated to health.
+
+In the health sector, the potential impacts and adaptation measures to be taken over time are described below.
+
+```{r Table_10, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_10 <-(read_excel(".Rproj.user/Tables/Table 10.xlsx"))
+column_widths <- rep("30em", ncol(Table_10))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_10[is.na(Table_10)] <- ""
+kable(Table_10, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 10: Synthesis of adaptation measures and their impacts in the health sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_10), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Energy sector
+
+The overall objective of the NAP for the energy sector is to **"improve the adaptive capacity of the energy sector to the adverse effects of climate change"**.
+
+Specifically, these are:
+
+-   develop resilient energy transport and storage infrastructure;
+
+-   promote energy efficiency;
+
+-   promoting renewable energy and hydropower;
+
+-   the decline in thermal electricity production;
+
+-   the reduction of wood energy;
+
+-   the development of energy transport and storage infrastructure;
+
+-   the development of hydropower generation;
+
+-   control of energy consumption.
+
+Adaptation measures and their impacts in the energy sector are described below.
+
+```{r Table_11, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_11 <-(read_excel(".Rproj.user/Tables/Table 11.xlsx"))
+column_widths <- rep("30em", ncol(Table_11))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_11[is.na(Table_11)] <- ""
+kable(Table_11, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 11: Synthesis of adaptation measures and their impacts in the energy sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_11), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Infrastructure and housing sector
+
+The overall objective of the NAP for the infrastructure and housing sector is **"Strengthening the resilience of infrastructure and habitats to the effects of climate change"**.
+
+Specifically, it involves:
+
+-   reduce the vulnerability of community social infrastructure and facilities;
+
+-   promote housing that is resilient to the effects of CCs;
+
+-   strengthen planning and construction standards.
+
+In the infrastructure and housing sector, adaptation measures and their impacts are described below.
+
+```{r Table_12, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_12 <-(read_excel(".Rproj.user/Tables/Table 12.xlsx"))
+column_widths <- rep("30em", ncol(Table_12))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_12[is.na(Table_12)] <- ""
+kable(Table_12, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 12: Synthesis of adaptation measures and their impacts in the infrastructure and housing sector" = 6)) %>%
+  column_spec(column = 1:ncol(Table_12), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Gender theme
+
+#### Adaptation Priority Areas
+
+The overall objective of **"Contribute to improving the resilience of members of women's associations through the implementation of income-generating activities"** is the one set in the sector in the face of the effects of climate change. To cancel out the vulnerability factors, the following adaptation actions are proposed:
+
+Specifically, these are:
+
+-   capacity building of women's associations on good practices for adaptation to climate change;
+
+-   improving women's access to safe drinking water during water shortages;
+
+-   raising women's awareness of the nutritional values of NTFPs for better preservation and enhancement of the species that provide them;
+
+-   strengthening women's technical capacities on good harvesting and processing practices and on provisions to ensure natural and assisted regeneration;
+
+-   the promotion of income-generating activities for women. In the area of gender, the potential impacts and adaptation measures to be taken over time are described below.
+
+```{r Table_13, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_13 <-(read_excel(".Rproj.user/Tables/Table 13.xlsx"))
+column_widths <- rep("30em", ncol(Table_13))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_13[is.na(Table_13)] <- ""
+kable(Table_13, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 13 : Synthesis of adaptation measures and their impacts in the Gender theme" = 6)) %>%
+  column_spec(column = 1:ncol(Table_13), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Thematic Civil Society Organisations (CSOs)
+
+#### Adaptation Priority Areas
+
+The overall objective of **"Improving the resilience capacities of women's organizations in an inclusive manner for better governance in the implementation of NAP/CC in Burkina Faso"** is set in the theme facing the effects of climate change.
+
+Specifically, these are:
+
+-   strengthen the technical capacities of women's organizations on good adaptation practices;
+
+-   consolidate/strengthen the organizational capacities of women's organizations;
+
+-   increase the resource mobilization capacity of women's organizations;
+
+-   take women's organizations into account in consultation frameworks related to adaptation to climate change;
+
+-   promote income-generating activities for women.
+
+In the field of CSOs, the potential impacts and adaptation measures to be taken over time are described below.
+
+```{r Table_14, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_14 <-(read_excel(".Rproj.user/Tables/Table 14.xlsx"))
+column_widths <- rep("30em", ncol(Table_14))
+col_names <- c("Climate Risks", " ", "Accomodations", "Description", "Expected Impacts", "Timeline")
+Table_14[is.na(Table_14)] <- ""
+kable(Table_14, col.names = col_names, escape = FALSE) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 14 : Synthesis of adaptation measures and their impacts in the theme of civil society organizations" = 6)) %>%
+  column_spec(column = 1:ncol(Table_14), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+## Costs and benefits of adaptation options
+
+In the process of developing Burkina Faso's first NAP, the T21 multi-sectoral modelling tool was used. Integrated, long-term scenarios have been generated by the T21-Burkina Faso model to study policy proposals that can contribute to climate change resilience. In this model, the adaptation policies tested concerned the sectors of agriculture, livestock, energy, health, environment, human habitats/infrastructure/natural disasters. Table 15 provides an overview of adaptation policies.
+
+```{r Table_15, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_15 <- read_excel(".Rproj.user/Tables/Table 15.xlsx")
+column_widths <- rep("30em", ncol(Table_15))
+Table_15[is.na(Table_15)] <- ""
+kable(Table_15) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 15 : Adaptation Policies in the T21 Burkina Faso Model" = 2)) %>%
+   column_spec(column = 1:ncol(Table_15), width = column_widths)
+```
+
+*Source: Burkina Faso Programmatic NAPA Preparation Document*
+
+Based on this analysis, short-, medium- and long-term (1 to 15 years) climate change adaptation options were proposed for each of the development sectors covered by the NAP. This analysis makes it possible to highlight the accumulated costs of investments in relation to GDP, for adaptation for the period (2014-2050) and the benefits derived from them.
+
+For the intermediate scenario, optimization simulations showed that 0.7% of GDP each year is needed to offset the negative impacts of climate change. In the worst-case scenario, it is even 1.5% of GDP each year. It also shows the optimal distribution of these investments between the agriculture, livestock, energy, health, environment and human habitat/infrastructure/natural disasters sectors. The benefits of adaptation are the losses in GDP caused by climate change and avoided by adaptation.
+
+This multi-sectoral vulnerability analysis work was carried out in 2012 with the aim of formulating a medium- and long-term national strategy for adaptation to climate change by 2025 and 2050 for Burkina Faso.
+
+```{r Table_16, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_16 <- read_excel(".Rproj.user/Tables/Table 16.xlsx")
+column_widths <- rep("15em", ncol(Table_16))
+Table_16[is.na(Table_16)] <- ""
+kable(Table_16) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 16 : Unit costs for adaptation measures integrated into the T21-Burkina Faso model" = 3)) %>%
+   column_spec(column = 1:ncol(Table_16), width = column_widths)
+```
+
+*Source: Millennium Institute; www.millennium-institute.org*
+
+So, in the intermediate scenario, the accumulated loss during the years (2014-2050) due to climate change is estimated at US\$28 billion, and in the worst-case scenario it is about US\$55 billion. This is a sum that is equal to seven times the GDP of the year 2008 (about US\$4 billion) for the intermediate scenario. For the worst-case scenario, this accumulated loss is nearly fourteen times the GDP of the year 2008.
+
+In terms of adaptation, the cost of resilience measures should not be an obstacle to seeking funding for their implementation. The most important thing is to achieve the maximum benefit/cost ratio when implementing these measures. Although costly, these adaptation measures will reap many benefits for Burkina Faso's development, the main ones being summarized below:
+
+-   strengthening the resilience of agriculture and ecosystems;
+
+-   securing pastoral activities and sustainable development of the pastoral economy;
+
+-   greenhouse gas mitigation;
+
+-   better health protection for the population;
+
+-   women's improved access to natural resources and decision-making spaces;
+
+-   etc.
+
+More specifically, the expected economic and social benefits of the implementation of the NAP are as follows:
+
+1.  **An increase in the production and incomes of rural populations:** the implementation of the NAP will contribute to reducing the vulnerability of natural, social and economic systems, which will lead to an increase in agro-sylvo-pastoral production and agricultural cash incomes of the population;
+
+2.  **A strong contribution to GDP:** reducing the vulnerability of natural, social and economic systems will strengthen the growth of the added value of each sector of the economy, and its contribution to the Gross Domestic Product (GDP);
+
+3.  **Creation of decent green jobs:** Production conditions will become conducive to investment, and the investments made will promote job creation in both the public and private sectors, especially for the youth. This means that it will then be possible to achieve an improvement in human well-being and social equity while significantly reducing environmental risks and resource scarcity.
+
+4.  **Knock-on effects for the rest of the economy:** the various development sectors concerned by the NAP represent the key sectors, and therefore the locomotives of Burkina Faso's development. The performance of these key sectors will have a clear knock-on effect on other sectors of the economy such as industry, trade and tourism.
+
+The conclusions of the Multisectoral Vulnerability Analysis for the Formulation of a Medium-and Long-Term National Climate Change Adaptation Strategy for Burkina Faso by 2025 and 2050 made in 2012 by the Millennium Institute during the training of Burkinabe executives on the T21 model showed that all development sectors in Burkina Faso are sensitive to climate change and all have vulnerability factors. The impact of climate change on these sectors is severe, and the cumulative losses in GDP until 2050 are in the billions if left unchecked. Moreover, the analysis reveals that the costs of adaptation are minimal compared to the benefits of adaptation; As a result, any delay in the implementation of adaptation strategies would increase costs.
+
+Taking these analyses and conclusions into consideration within the framework of the NAP will enable Burkina Faso's economic emergence by greening the country's economy.
+
+The various NAP sectoral plans have drawn up action plans for the implementation of priority actions. The total estimated costs of implementing these priority actions constitute the overall cost of implementing the NAP for the five (5) year period. The table in Annex 6 summarises the actions to be implemented by sector and the corresponding costs.
+
+The overall budget for the implementation of the NAP for the five (5) year implementation period is estimated at: **Two hundred and eleven billion two hundred and thirty-three million eight hundred and seventy-nine thousand nine hundred and twenty-four (211,233,879,924) CFA francs**, of which **two hundred and eleven billion two hundred and six hundred and fifty-nine thousand eight hundred and ninety-eight (211,206,259,898) CFA francs** will be financed by the State, **twenty-four million nine hundred and sixty-one thousand five hundred (24,961,500 FCFA)** addressed to partners and the **remainder two thousand six hundred and fifty-eight thousand eighty (2,658,080 FCFA)** is to be sought.
+
+## Mainstreaming climate change adaptation into development policies and strategies
+
+The integration of climate change (CC), in the adaptation and mitigation components, into the development planning process at all levels represents a challenge for all countries and in particular for Burkina Faso and must be carried out in a proactive manner. Indeed, taking climate change into account in planning has been a recognized concern since the World Summit on Sustainable Development in Johannesburg in 2002, but little implemented in our context. This integration must go through two (2) processes:
+
+1.  integrating climate change adaptation into planning;
+
+2.  integrating Climate Change Adaptation into budgeting.
+
+### Integrating Climate Change Adaptation into Planning
+
+The process of integrating climate change adaptation options into development policies, strategies, plans, programmes and projects requires an understanding of development policies, strategies, plans, programmes and projects, planning cycles and reflection on relevant adaptation options. The identification of entry points will point to adequate "windows of opportunity" for integration.
+
+The entry points into the cycle of policies, strategies, plans, programmes and projects are as follows: (i) **planning:** transformation of issues and challenges into strategic directions and strategic axes; issues into global objectives and specific problems identified into specific objectives; root causes into strategic actions; and direct consequences or manifestations into results; (ii) **programming:** breakdown of actions relating to each programme/project, including climate-related activities, and projection of results targets over periods; and (iii) budgeting: the allocation of resources to planned activities.
+
+### Integrating Climate Change Adaptation into Budgeting
+
+The inclusion of climate change in the budget is necessary for the implementation of climate change adaptation options contained in strategies, programmes and projects. As a result, it will be necessary to ensure that the budget allocation keys to be used are those that best enable the implementation of the strategic orientations resulting from the strategy papers and related to climate change.
+
+The integration of climate change adaptation options into the budgeting process requires mastery of the steps of the budgeting process and the identification of entry points, which are ministries and other structures that can contribute to the success of the process. It will be necessary to draw up a list of the operations necessary for the fulfilment of each climate change adaptation option selected in the strategic development planning system, estimate the deadlines for implementation and evaluate the respective costs, with a view to their incorporation into the programming, budgeting and monitoring and evaluation instruments.
+
+For a coherent integration of climate change adaptation into planning documents, a guide on the integration of climate change adaptation should be adopted to serve as a guiding document for the process and a national climate change committee should be set up to steer it.
+
+## Operationalization of the National Adaptation Plan
+
+In order to operationalize the National Adaptation Plan, the following is a strategy comprising three (3) axes:
+
+-   Strategic axis 1: Strengthening the adaptive capacities of priority sectors;
+
+-   Strategic axis 2: Research/Development on adaptation to climate change;
+
+-   Strategic Axis 3: Governance of Climate Change Adaptation Interventions.
+
+These strategic axes are part of the dynamics of the current national development framework (PNDES II) which, it should be noted, is based on the following axes: (1) Consolidating resilience, security, social cohesion and peace; (2) Deepen institutional reforms and modernize public administration; (3) Consolidate the development of human capital and national solidarity and (4) Boost promising sectors for the economy and jobs.
+
+Each strategic axis of the NAP has specific objectives, results and monitoring indicators, as shown in the table 17 a., b. and c. below:
+
+```{r Table_17a, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_17a <- read_excel(".Rproj.user/Tables/Table 17a.xlsx")
+column_widths <- rep("30em", ncol(Table_17a))
+Table_17a[is.na(Table_17a)] <- ""
+kable(Table_17a) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 17a: NAP Operationalization Strategy - Strategic axis 1: Strengthening the adaptive capacities of priority sectors" = 5)) %>%
+   column_spec(column = 1:ncol(Table_17a), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP* 
+
+```{r Table_17b, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_17b <- read_excel(".Rproj.user/Tables/Table 17b.xlsx")
+column_widths <- rep("30em", ncol(Table_17b))
+Table_17b[is.na(Table_17b)] <- ""
+kable(Table_17b) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 17b: NAP Operationalization Strategy - Strategic axis 2: Research and development in adaptation to CC" = 5)) %>%
+   column_spec(column = 1:ncol(Table_17b), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+```{r Table_17c, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_17c <- read_excel(".Rproj.user/Tables/Table 17c.xlsx")
+column_widths <- rep("30em", ncol(Table_17c))
+Table_17c[is.na(Table_17c)] <- ""
+kable(Table_17c) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 17c: NAP Operationalization Strategy - Strategic axis 3: Governance of adaptation interventions to CC" = 5)) %>%
+   column_spec(column = 1:ncol(Table_17c), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+### Measuring the performance of the National Adaptation Plan
+
+The effectiveness of the NAP operationalization strategy needs to be monitored in a systematic manner. To this end, a performance measurement plan is proposed as described in the tables below:
+
+```{r Table_18a, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_18a <- read_excel(".Rproj.user/Tables/Table 18a.xlsx")
+column_widths <- rep("30em", ncol(Table_18a))
+Table_18a[is.na(Table_18a)] <- ""
+kable(Table_18a) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 18a: NAP Performance Measurement Plan - Strategic axis 1: Strengthening the adaptive capacities of priority sectors" = 7)) %>%
+   column_spec(column = 1:ncol(Table_18a), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+```{r Table_18b, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_18b <- read_excel(".Rproj.user/Tables/Table 18b.xlsx")
+column_widths <- rep("30em", ncol(Table_18b))
+Table_18b[is.na(Table_18b)] <- ""
+kable(Table_18b) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 18b: NAP Performance Measurement Plan - trategic axis 2: Research and development in adaptation to CC" = 7)) %>%
+   column_spec(column = 1:ncol(Table_18b), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*
+
+```{r Table_18c, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Table_18c <- read_excel(".Rproj.user/Tables/Table 18c.xlsx")
+column_widths <- rep("30em", ncol(Table_18c))
+Table_18c[is.na(Table_18c)] <- ""
+kable(Table_18c) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Table 18c: NAP Performance Measurement Plan - Strategic axis 3: Governance of adaptation interventions to CCs" = 7)) %>%
+   column_spec(column = 1:ncol(Table_18c), width = column_widths)
+```
+
+*Source: Consultant for the revision of the NAP*

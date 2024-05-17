@@ -1,0 +1,294 @@
+---
+title: " "
+cover-image: "Figures and Photos/Cover Page.PNG"
+author: " "
+date: " "
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+description: "This is Burkina Faso NAP in English."
+link-citations: yes
+---
+
+#  {.unnumbered}
+
+![](Figures%20and%20Photos/Cover%20Page.PNG){width="600px" style="display: block; margin:0 auto;"}
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+	echo = FALSE,
+	message = FALSE,
+	warning = FALSE
+)
+```
+
+# Preliminaries {.unnumbered}
+
+## Acronyms and abbreviations {.unnumbered}
+
+2IE : International Institute of Water and Environmental Engineering
+
+ABN : Niger Basin Authority
+
+ABV : Volta Basin Authority
+
+ALG : Liptako Gourma Authority
+
+ANAM : National Meteorological Agency
+
+AND/FVC : Designated National Authority of the Green Climate Fund
+
+APF : Wildlife Protected Areas
+
+ASECNA : Agency for the Safety of Air Navigation in Africa and Madagascar
+
+BAD : African Development Bank
+
+EIB : European Investment Bank
+
+IDB : Islamic Development Bank
+
+BEEMER : World Bank
+
+CBIT : Capacity-Building Initiative for Transparency
+
+CBD : Convention on Biological Diversity
+
+CDN : Nationally Determined Contributions
+
+CESD : Environment and Sustainable Development Committee
+
+ECOWAS : Economic Community of West African States
+
+ESC/DRS : Water & Soil Conservation/Defense Soil Restoration
+
+CIFOR : International Center for Forestry Research
+
+CILSS : Inter-State Committee for Drought Control in the Sahel
+
+CIRDES : International Centre for Research and Development on Subhumid Livestock
+
+CLD : Convention to Combat Desertification
+
+CMIP : Project for Inter Comparison of Coupled Models
+
+CNACC : National Committee on Climate Change
+
+CNRA : National Center for Atmospheric Research
+
+CNRST : National Center for Scientific and Technological Research
+
+CNSF : National Centre for Forest Seeds
+
+CONASUR : National Council for Emergency Relief and Rehabilitation
+
+COP : Conference Of Parties
+
+CRES : African Centre for Scientific Research and Training
+
+CTS : Technical Monitoring Committee
+
+ERDG : Directorate-General for Water Resources
+
+EMOFA-B : Implementing Entity of the Climate Change Adaptation Fund of Burkina Faso
+
+FAO : Food and Agriculture Organisation
+
+EMF : Global Environment Facility
+
+IFAD : International Fund for Agricultural Development
+
+FIE : Environmental Intervention Fund
+
+GCF : Green Climate Fund
+
+GAR : Results-Based Management
+
+LGB : General Circulation Models
+
+GDDP : Global Daily Down scaled Projections
+
+TDM : Sustainable Land Management
+
+GHG : Greenhouse Gases
+
+GGGI : Global Green Growth Institute
+
+ICRISAT : International Crops Research Institute for the Semi-Arid Tropics
+
+IIASA : International Institute for Applied Systems Analysis
+
+IISD : International Institute for Sustainable Development
+
+INSD : National Institute of Statistics and Demography
+
+IRD : Research Institute for Development
+
+LEG : Least Experts Group
+
+MARAH : Ministry of Agriculture, Animal Resources and Fisheries
+
+MEEA : Ministry of Environment, Water and Sanitation
+
+MEMC : Ministry of Energy, Mines and Quarries
+
+MESRI : Ministry of Higher Education, Research and Innovation
+
+NEPAD : New Partnership for Africa and Development
+
+NEX : Nasa Earth Exchange
+
+ODD : Sustainable Development Goals
+
+CSOs : Civil Society Organizations
+
+PA-SDT : Stabilization and Development of the Transition
+
+PAGIRE : Action Plan for Integrated Water Resources Management
+
+PAM : World Food Programme
+
+NFP : National Forest Policy
+
+NTFP : Non-timber forest products
+
+GDP : Gross Domestic Product
+
+LDC : Least Developed Countries
+
+PNA : National Climate Change Adaptation Plan
+
+PNDD : National Sustainable Development Policy
+
+NEDFN : National Policy for the Sustainable Development of Livestock
+
+NSDP : National Health Development Plan
+
+NCB : National Environmental Policy
+
+NCB : National Water Policy
+
+PNG : National Gender Policy
+
+PNGIS : National Integrated Drought Management Plan
+
+HNHP : National Policy on Housing and Urban Development
+
+PNHP : National Public Health Policy
+
+NSTRP : National Policy for Scientific and Technological Research
+
+SNP : National Health Policy
+
+NANSP : National Food and Nutrition Security Policy
+
+RMFNP : National Policy for Land Security in Rural Areas
+
+UNDP : United Nations Development Programme (UNDP)
+
+UNEP : United Nations Environment Programme
+
+POSEN : Energy Sector Policy
+
+PPP : Public-Private Partnerships
+
+PRA : Regional Adaptation Plan
+
+PS-EEA : Sectoral Policy "Environment, Water and Sanitation"
+
+PSRI : Sectoral Research and Innovation Policy
+
+PST : Transport Sector Policy
+
+PTF : Technical & Financial Partners
+
+REEB IV : Fourth Report on the State of the Environment in Burkina Faso
+
+RGPH : General Population and Housing Census
+
+NAS : Assisted natural regeneration
+
+CSR : Corporate Social Responsibility
+
+SDAU : Urban Development Master Plan
+
+SEF : Sahelian Eco-Farm
+
+NCCS : National Climate Change Learning Strategy
+
+SNADDT : National Plan for Land Use Planning and Sustainable Development
+
+SNAT : National Spatial Planning Plan
+
+DCS : National Strategy for the Implementation of the Convention on Climate Change
+
+SNEV : National Green Economy Strategy
+
+SNG : National Gender Strategy
+
+SNI : National Industrialization Strategy
+
+SNRCRS : National Strategy for Soil Restoration, Conservation and Recovery
+
+SONABEL : Burkinabè Electricity Company
+
+SP/CNDD : Permanent Secretariat of the National Council for Sustainable Development
+
+SP/CONASUR : Permanent Secretariat of the National Council for Emergency Relief and Rehabilitation
+
+SSP : Shared Socioeconomic Pathways
+
+TWITCH : Information and Communication Technologies
+
+AU : African Union
+
+WAEMU : West African Economic and Monetary Union
+
+IUCN : International Union for Conservation of Nature
+
+UNCCD : United Nations Convention to Combat Desertification
+
+WASCAL : West African Science Service Center on Climate Change and Adaptation Land Use
+
+## Executive summary {.unnumbered}
+
+All scenarios show that global warming of the earth will intensify and exceed 1.5°C or even 2°C by 2050, unless significant reductions in CO2 and other greenhouse gas emissions occur in the coming decades (IPCC, 2021). This situation necessitates the development and adoption of greater adaptation strategies for developing countries that are the most vulnerable.
+
+Aware that issues related to climate change can compromise its socio-economic development, Burkina Faso adopted its National Climate Change Adaptation Plan (NAP) in 2015. This strategic document, which is perfectly aligned with the country's current policies, has made it possible in its implementation to prevent and limit the negative consequences of climate change on its development in the medium and long term.
+
+Planned for a period of 5 years (2015-2020), the NAP was evaluated in 2021 in order to address shortcomings and strengthen achievements for the years to come. The evaluation was carried out in a participatory manner with the actors of the sectors concerned by the NAP through an administrative decision setting up a team for the evaluation called the "Technical Working Group". At the end of the analysis, it appears that of the 143 actions planned, 96 actions have been carried out or are in the process of being carried out, i.e. a rate of 77% compared to 47 actions that have not started to start, i.e. a rate of 33%. Of the 77% of the actions mentioned, 38% have been completed and 29% are in progress.
+
+The development of an NAP is essential for countries to address climate change and ensure sustainable development. However, the evolution of the climate and the socio-economic context means that the priorities and challenges addressed may evolve from one NAP to another, hence the interest of this NAP, the formulation and implementation of which is based on the following principles: national ownership, empowerment of actors, results-based management, coherence of interventions, sustainability of interventions, gender mainstreaming and social inclusion,equity and partnership.
+
+The vision of the NAP is: Burkina Faso manages its economic and social development more effectively through the implementation of planning mechanisms and measures that take into account resilience and adaptation to climate change by 2050.The overall objective of the NAP is to strengthen the resilience of people and ecosystems to climate change for inclusive and sustainable growth in Burkina Faso. Specifically, it is about:
+
+-   strengthen the adaptive capacities of people and ecosystems;
+
+-   ensure the systematic integration of climate change adaptation into planning and budgeting at the national and local levels;
+
+-   improve the mobilization of climate change adaptation finance;
+
+-   promote research and development, local knowledge, know-how and endogenous best practices related to climate resilience, taking into account gender equality;
+
+-   improving the governance of climate change adaptation
+
+In addition to droughts and floods, the new challenges to be integrated into this NAP are heat waves, the late onset of the rainy season and its early end. The current NAP covers a period of 5 years (2024-2028) and will be implemented in a participatory manner with state and non-state actors.
+
+In this NAP, three climate change scenarios have been identified: Shared Socioeconomic Pathways (SSPs; SSP1-2.6; SSP2-4.5 and SSP5-8.5) and two future periods (2021-2050: near future; 2051-2080: distant future) were considered with the reference period from 1985 to 2014. Climate observations in Burkina Faso reveal that in the near future, the northern part of the country could experience a significant early onset of the rainy season with a more pronounced trend in the SSP5-8.5 scenario. In the distant future, most parts of the West could experience a significant delay in precipitation of up to 5 days. Models predict an increase in the length of the rainy season in the near and distant future. An increase in precipitation is also expected. This increase is significant in all regions with a 95% probability. The increase is more pronounced at the end of the century and in the high-emission scenario (SSP5-8.5). This scenario shows an increase of more than 20%, especially in the northern part of the country, for the period 2051-2080. In the optimistic scenario (SSP1-2.6), the country could see a minimum increase of around 5% for both periods. However, an increase in evapotranspiration is expected in the same proportion as that of precipitation. Current projections of water availability in Burkina Faso confirm the uncertainty of the resource regardless of the emission scenario considered due to a likely increase in evapotranspiration. As a result, given the cross-cutting nature of water resources, all other sectors, in particular agriculture, livestock, fisheries, food security and energy, will also be adversely affected by water-related issues. The areas where the risks would be highest are the Sahel region, the North region and the North Central region. It should be noted that water resources, agriculture and livestock are vulnerable sectors of these climate risk factors.
+
+For air temperature, it is expected to increase in Burkina Faso. The western and northern parts of the country will experience greater warming, but the northern parts will have a higher increase. In addition, there will be a significant increase in the number of heat stress days and the number of cooling days, mainly in the western part of the country.
+
+Several adaptation measures and strategies have been developed to improve the population's resilience to the future impacts of climate change. The adaptation priorities of this NAP are consistent with PNDES II and the Action Plan for the Stabilization and Development of the Transition (PA-SDT).
+
+The operationalization of the National Adaptation Plan is based on three (3) strategic axes: (i) strengthening the adaptation capacities of priority sectors; (ii) climate change adaptation research and development; and (iii) governance of climate change adaptation interventions.
+
+The implementation of the adaptation strategies and measures developed in this NAP will enable Burkina Faso to strengthen the resilience of the population of Burkina Faso to the negative impacts of climate change.
+
+The overall budget for the implementation of the PNA for the five (5) year execution period is estimated at: **Two hundred and eleven billion, two hundred and thirty-three million, eight hundred and seventy-nine thousand, nine hundred and twenty-four (211,233,879,924) FCFA** of which **two hundred and eleven billion, two hundred and six million, two hundred and fifty-nine thousand, eight hundred and ninety-eight (211,206,259,898) FCFA** will be financed by the national government, **twenty-four million nine hundred and sixty-one thousand five hundred (24,961,500 FCFA)** addressed to the partners and the remainder **two thousand six hundred and fifty-eight thousand and eighty (2,658,080 FCFA) is to be sought**.
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```

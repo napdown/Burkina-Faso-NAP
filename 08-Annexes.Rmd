@@ -1,0 +1,84 @@
+# Annexes {.unnumbered}
+
+```{r Annex_1, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Annex_1 <- read_excel(".Rproj.user/Tables/Annex 1.xlsx")
+column_widths <- rep("30em", ncol(Annex_1))
+Annex_1[is.na(Annex_1)] <- ""
+kable(Annex_1) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Annex 1: List of gender-responsive adaptation and resilience projects implemented outside the NAP" = 5)) %>%
+   column_spec(column = 1:ncol(Annex_1), width = column_widths)
+```
+
+*Source: NAP Evaluation Report, June 2021.*
+
+```{r Annex_2, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Annex_2 <- read_excel(".Rproj.user/Tables/Annex 2.xlsx")
+column_widths <- rep("30em", ncol(Annex_2))
+Annex_2[is.na(Annex_2)] <- ""
+kable(Annex_2) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Annex 2: List of non-NAP adaptation projects implemented by CSOs" = 4)) %>%
+   column_spec(column = 1:ncol(Annex_2), width = column_widths)
+```
+
+*Source: NAP Evaluation Report, June 2021.*
+
+```{r Annex_3, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Annex_3 <- read_excel(".Rproj.user/Tables/Annex 3.xlsx")
+column_widths <- rep("30em", ncol(Annex_3))
+Annex_3[is.na(Annex_3)] <- ""
+kable(Annex_3) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Annex 3: NAP Activity Tracking Template" = 5)) %>%
+   column_spec(column = 1:ncol(Annex_3), width = column_widths)
+```
+
+```{r Annex_4, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Annex_4 <- read_excel(".Rproj.user/Tables/Annex 4.xlsx")
+column_widths <- rep("30em", ncol(Annex_4))
+Annex_4[is.na(Annex_4)] <- ""
+kable(Annex_4) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Annex 4: NAP Results Tracking Templatee" = 5)) %>%
+   column_spec(column = 1:ncol(Annex_4), width = column_widths)
+```
+
+```{r Annex_5, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Annex_5 <- read_excel(".Rproj.user/Tables/Annex 5.xlsx")
+column_widths <- rep("30em", ncol(Annex_5))
+Annex_5[is.na(Annex_5)] <- ""
+kable(Annex_5) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Annex 5: NAP Impact Monitoring Template" = 5)) %>%
+   column_spec(column = 1:ncol(Annex_5), width = column_widths)
+```
+
+```{r Annex_6, echo=FALSE, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(readxl)
+library(knitr)
+library(kableExtra)
+Annex_6 <- read_excel(".Rproj.user/Tables/Annex 6.xlsx")
+column_widths <- rep("30em", ncol(Annex_6))
+Annex_6[is.na(Annex_6)] <- ""
+kable(Annex_6) %>%
+  kable_styling(full_width = FALSE, position = "left", latex_options = "hold_position", bootstrap_options = "condensed") %>%
+  add_header_above(c("Annex 6: Physical and financial programming of selected projects" = 21)) %>%
+   column_spec(column = 1:ncol(Annex_6), width = column_widths)
+```
+

@@ -1,0 +1,224 @@
+# Implementation and financing strategy for adaptation priorities 
+
+## Policy framework and institutional arrangement
+
+The theme of "climate change" is taken into account in national political and strategic orientations such as:
+
+-   the Charter of the Transition;
+
+-   the 2025 National Prospective Study;
+
+-   the Transition Stabilization and Development Action Plan;
+
+-   the National Economic and Social Development Plan (PNDES-II, 2021-2025) through SO 4.5 "reversing the trend of natural resource degradation to promote climate resilience and the reduction of greenhouse gas emissions";
+
+-   the National Prospective Study "BURKINA 2025";
+
+-   the National Sustainable Development Policy (PNDD);
+
+-   the National Plan for Land Use Planning and Sustainable Development (SNADDT) 2040;
+
+-   sectoral policies and development frameworks in the world and in the sub-region, namely, the Sustainable Development Goals (SDGs) 2015-2030, particularly SDG 13 entitled "Take urgent action to combat climate change and its impacts";
+
+-   the African Union's Agenda 2063 and the ECOWAS Strategic Framework.
+
+Sectoral policies related to climate change are made up of: the National Environment Policy (NEP); the National Gender Strategy (NGS); the National Food and Nutrition Security Policy (PNSAN); the National Forest Policy; the National Water Policy (NWP); the National Policy for Land Security in Rural Areas (PNSFMR); the Action Plan for Integrated Water Resources Management (PAGIRE); the National Water Resources Security Policy (PNSFMR); the National Water Resources Security Policy (PNSFMR); the National Water Security Policy (PNSFMR); the National Water Security Policy (PNSFMR); the National Water Security Policy (PNSFMR); the National Water Security Policy (PNSFMR); the National Policy for the Securing of Land Use in Rural Areas (PNSFMR); the Action Plan for the Integrated Management of Water Resources (PAGIRE); the National Institute for Scientific and Technological Research (PNRST); the Agro-Sylvo-Pastoral Sectoral Policy; the National Policy for Housing and Urban Development; the Energy Sector Policy (POSEN); the National Policy for the Sustainable Development of Livestock; the transport sector policy, the industrial and artisanal processing sectoral policy, the health policy and the agricultural policy in Burkina Faso; the Environment, Water and Sanitation Sectoral Policy (PS-EEA, 2018-2027); National Strategy the concerted implementation of the Rio Generation Conventions, the National Strategy for the Implementation of the Convention on Climate Change (SNCC) and its Action Plan; the National Climate Change Learning Strategy (NCCS); the National REDD+ Strategy; the National Green Economy Strategy (SNEV); the National Strategy for the Creation of Eco Villages; the National Industrialization Strategy; the National Strategy for Soil Restoration, Conservation and Recovery (SNRCRS), the Sectoral Research and Innovation Policy (PSRI) 2018-2027, the National Integrated Drought Management Plan (PNGIS), the National Strategic Plan for Agro-Sylvo-Pastoral Investment (PNIASP) and the national LIFE-AR strategy with its action plan and the first National Adaptation Plan (NAP).
+
+An analysis of these sectoral policies shows that, overall, the degree of consideration of adaptation to climate change varies greatly from one policy to another and the levels of implementation of adaptation measures across projects and programmes are insufficient. However, there has been encouraging progress, particularly in certain sectors such as agriculture, energy, environment and natural resources, water and health. Overall, efforts remain to be made to operationalize these policies.
+
+It is also in line with the Paris Climate Agreement (2015) which, in addition to the objective of reducing greenhouse gas emissions in order to limit the rise in global temperature, also aims to strengthen countries' capacity to adapt and resilience to the impacts of climate change. Burkina Faso's NAP also provides information on the "adaptation" part of the Nationally Determined Contribution (NDC), which is the driving force behind the implementation of the Paris Climate Agreement.
+
+The NAP also contains many actions whose effectiveness is also in line with the objectives pursued by the other environmental conventions, such as the Conventions on Biological Diversity (CBD), the United Nations Convention to Combat Desertification (UNCCD) and the Convention on Wetlands of International Importance especially as Waterfowl Habitat or Ramsar Convention.
+
+Burkina Faso's NAP is also part of the dynamic of disaster risk reduction through resilience actions; it is, therefore, in line with the Sendai Framework for Disaster Risk Reduction 2015-2030. Finally, the NAP responds to the objectives of the different generations of human rights, which deal with, among other things, the right to life, the right to a healthy environment, the right to food, and the right to decent housing.
+
+### Synthesis of Burkina Faso's climate change adaptation policies linked to the SDGs and the Sendai Framework
+
+**The objective of PNDES II (2021-2025)** is to restore security and peace, strengthen the nation's resilience and structurally transform the Burkinabe economy, for strong, sustainable and inclusive growth. Its vision is "Burkina Faso, a nation of solidarity, democracy, resilience and peace, transforming the structure of its economy to achieve strong, inclusive and sustainable growth". For PNDES II, climate change is one of the risks that can jeopardize economic and social development. As a result, measures to mitigate or circumvent climate risk are included (3.6.6 Climate hazards).
+
+**The National Sustainable Development Policy (PNDD)** with its vision "By 2050, Burkina Faso is an emerging country in the context of sustainable development where all sectoral strategies, all development plans and programs contribute to improving the standard of living and quality of life of the population, especially the poorest. In its vision of sustainable development, Burkina Faso intends to have production and consumption patterns that allow an ever-growing Burkinabe population to live decently in a space and time with limited natural resources and under the constraint of climate change.
+
+**The National Policy for Scientific and Technological Research:** the general objective of the policy is to strengthen the productive system through the generation and intensive use of research and innovation results. Indeed, beyond the cross-cutting nature of research, which affects all sectors vulnerable to climate change, research in agricultural and environmental sciences, innovation and the exploitation of research results are among its main areas of investigation. In terms of adaptation consideration, the policy states that the disparity in the potential of regions and the increasingly perceptible climatic variations with the occurrence of extreme events imply that scientific research and innovation must be decentralised and adapted to meet development challenges.
+
+**The Agro-Sylvo-Pastoral Sectoral Policy (2017-2026), whose objective is** to develop a productive "agro-sylvo-pastoral production" sector that ensures food security, is more market-oriented and creates decent jobs based on sustainable production and consumption patterns, and provides a basis for adaptation to climate change. Through its three strategic axes: (i) food and nutrition security, resilience of vulnerable populations, (ii) competitiveness of agro-sylvo-pastoral fisheries and wildlife sectors and access to markets, (iii) sustainable management of natural resources and Strategic Objective 1.2: "Contribute to the food and nutrition security of vulnerable populations in a context of climate change", the PS-ASP contributes to the achievement of the SDGs and the Sendai Framework.
+
+**The Energy Sector Policy through Strategic Orientation 1:** "Promoting the use of endogenous resources" aims to strengthen the capacities of stakeholders, develop internal financing mechanisms and promote the use of renewable energies. In addition, Strategic Direction 4: "Making energy a driver of sustainable development" seeks, among other things, to contribute to the preservation of the environment. The implementation of these strategic directions will contribute to the successful integration of adaptation into development options.
+
+**The National Policy for the Sustainable Development of Livestock through its axis 2:** Securing and sustainable management of pastoral resources, the objective of which is "to accelerate the transformation of extensive pastoral and agro-pastoral production systems towards intensive systems through the sedentarization and security of pastoral activities and the formal appropriation of spaces and resources" is an opportunity for the promotion of adaptation measures in the region. the livestock sub-sector.
+
+**The overall objective of the Industrial and Craft Transformation Sectoral Policy** is to: "develop sustainable and resilient transport, communication and housing equipment and infrastructure with a view to improving their accessibility to all socio-professional strata". For this policy, it is its axis 2: "Development of sustainable and resilient equipment and infrastructure" constitutes a reference for the implementation of adaptation in Burkina Faso, which is targeted in this work.
+
+**The objective of the Sectoral Policy "Environment, Water and Sanitation" (PS-EEA, 2018-2027)** is to "Ensure access to water, a healthy living environment and strengthen environmental governance and sustainable development with a view to improving the economic and social conditions of the population". Therefore, the strategic objective of axis 1 is to strengthen environmental governance in the transition to a green and inclusive economy. The achievement of this objective is an opportunity to promote adaptation to climate change in Burkina Faso.
+
+**The Nationally Appropriate Mitigation Action ( NAMA) framework,** the benchmark for national GHG emission reduction and climate change mitigation by 2020, is developed in line with national priorities for sustainable development. The economic sectors include: energy including the transport sub-sector, forestry, agriculture and waste.
+
+**The Nationally Determined Contribution (NDC)** represents Burkina Faso's quantified commitments to achieve the goal of the Paris Climate Agreement. It provides guidance for reducing the country's emissions. The first NDC was submitted in 2015 and the revised version in 2021. The country has also taken the option of strengthening its resilience through the implementation of adaptation projects. The reduction potential in connection with the implementation of adaptation actions is estimated at 33072.72Gg or 30.76%.
+
+**The National Green Economy Strategy (SNEV)** which aims, among other things, to (i) strengthen the governance of the green economy in the public administration, local authorities and the private sector; (ii) popularizing sustainable consumption and production patterns to combat climate change; (iii) improve the environmental and social quality of macroeconomic indicators and the performance of financial and economic institutions, through the development of accounting and green finance; and (iv) make a strong contribution to the fight against unemployment, as well as to national economic growth, through the promotion of green entrepreneurship and the creation of decent green jobs.
+
+**The overall objective of the National Strategy for the Creation of Eco Villages,** which contributes to adaptation, is to contribute to local sustainable development by transforming2000 villages into eco-villages. The main expected impacts of the implementation of this strategy are: (i) the incidence of poverty has decreased, (ii) food and nutrition security has been strengthened, (iii) the quality of the environment has improved, (iv) local governance has been strengthened.
+
+**The National Industrialization Strategy,** whose vision of this strategy is stated as follows:"By 2023, Burkina Faso has a dynamic, competitive and sustainable industrial sector that increases its contribution to the structural transformation of the national economy", has the expected impact, among other things, the modernization of the industrial subsector by relying on sustainable technologies and technical innovations.
+
+**The National Strategy for Soil Restoration, Conservation and Recovery (SNRCRS)** whose overall objective is to reduce/reverse the trend of land degradation with a view to sustainably increasing agricultural production.
+
+**The National Adaptation Plan (NAP, 2015-2020),** this strategy has enabled Burkina Faso to identify priorities for adaptation to climate change in the medium and long term, was adopted by the Council of Ministers on 2 September 2015 and submitted to the UNFCCC. It is a follow-up to Burkina Faso's National Programme of Action on Adaptation (NAPA) to Climate Variability and Change. It had the following objectives: (i) to protect the pillars of accelerated growth (agriculture, livestock, forestry, infrastructure, energy, etc.); (ii) ensuring sustainable food and nutrition security; (iii) preserve water resources and improve access to sanitation; (iv) protect people and property from extreme weather events and natural disasters; (v) protect and enhance the functioning of natural ecosystems; and (vi) protect and improve the health of populations.
+
+**The vision of the strategy for 2024** is that "Burkina Faso's soils regain their full productive capacities and allow for modern, sustainable and resilient agriculture" Through this vision, the strategy aims to achieve a reversal of the trends of environmental and natural resource degradation for well-being socio-economic status of the population. The overall objective of the strategy is to reduce/reverse the trend of land degradation with a view to sustainably increasing agricultural production. This strategy provides a basis for the promotion of adaptation and consequently the NAP.
+
+The governance of climate change is based on several institutions that can be broken down into government institutions, local authorities, associations and non-governmental organizations (CSOs), the private sector and technical and financial partners (TFPs). The main entities set up for climate governance are:
+
+-   **National Assembly:** Passes laws, approves taxes and controls government action. For issues relating to the sustainable management of natural resources, the National Assembly has an Environment and Sustainable Development Commission (CESD), the Climate Change Commission and a Commission for the Evaluation of Public Policies and the Follow-up of Recommendations (CEPSUR);
+
+-   **Prime Minister:** The Prime Minister chairs the National Conference on Sustainable Development (CONADD) which is held every two years and takes stock of the implementation of sustainable development in Burkina Faso. Depending on the circumstances, the conference may focus on a specific theme, including climate change, and make recommendations to the government in its actions. The Prime Minister's Office also houses the Executive Secretariat of the Green Climate Fund (FVC);
+
+-   **The Ministry of Environment, Water and Sanitation** implements the Government's policy on the environment, water resources management, green economy and climate change. As the structure housing the Focal Point of the UNFCCC, it is responsible for coordinating the implementation of the convention through the Permanent Secretariat of the National Council for Sustainable Development (SP-CNDD);
+
+-   **Ministry of Transport, Urban Mobility and Road Safety:** it houses the National Meteorological Agency (ANAM) which provides climate information to better deal with climate change;
+
+-   **Ministry of the Economy, Finance and Forecasting:** this ministry plays a major role in the mobilization of climate finance through the Directorate General for Cooperation (DGcoop) but also in development planning through the Directorate General for the Economy and Planning (DGEP). This ministry is also home to the General Directorate of Territorial Development (DGDT) which is in charge of land use planning and sustainable development;
+
+-   The other ministries in charge of rural development (agriculture, animal resources, water), social action, territorial administration and scientific research carry out activities in the field of climate change through specific programmes and projects or projects with climate change mitigation and adaptation components;
+
+-   In addition to the above-mentioned institutions, there may be local authorities, technical and financial partners.
+
+## Legal and regulatory framework
+
+In addition to the parent law, the Constitution of Burkina Faso, which incorporates many provisions on environmental preservation, such as "the absolute necessity to protect the environment... In its preamble, "wealth and natural resources belong to the people. They are used to improve one's living conditions", "the right to a healthy environment is recognized. The protection, promotion and defence of the environment shall be the duty of all", "the environment shall fall within the scope of the law" in Articles 14, 29 and 101 respectively. The main texts adopted at the national level are Law No. 006-2013/AN of 2 April 2013 on the Environmental Code and Law No. 003-2011/AN of 5 April 2011 on the Forest Code in Burkina Faso.
+
+International texts related to climate change consist mainly of the United Nations Framework Convention on Climate Change (1992) ratified on 20 September 1993, the Kyoto Protocol (1997) ratified on 31 March 2005, and the Paris Climate Agreement (2015), ratified on 15 November 2016.
+
+In this spirit, the Burkinabe State has committed, among other things, to make appropriate adjustments in order to reduce the negative impacts of climate change and contribute to the reduction of GHG emissions according to its national capacities and circumstances, through the revision of its 2015 NAP, on the technical and financial support of the Capacity Building Initiative for Transparency (CBIT).
+
+Due to the fact that the NAP influences the methodology of long-term development planning in Burkina Faso, its adoption is done by decree taken by the Council of Ministers. Decrees implementing this decree specify the modalities for the operationalization of the NAP in the various development sectors.
+
+## Communication strategy
+
+As part of the implementation of the NAP process, a communication strategy will be developed and implemented, with a view to enhancing visibility and ownership by all actors at national, local and international levels. The aim will be to disseminate information in the form of tools adapted to each target group (to state and non-state actors, as well as to the beneficiaries of adaptation actions, i.e. grassroots communities). Forms of communication will focus on webinars, awareness-raising, workshops, public and private media, and information and communication technologies in national and international languages.
+
+## Research and development
+
+Climate change has become important to the sustainable development agenda. Its impact and the need for adaptation and mitigation measures go beyond environmental issues. The effects that are expected make it a global issue as well as a moral one, with important consequences for demographics, global equality, and even security. The severity of environmental and economic impacts has become increasingly clear.
+
+For the successful implementation of the NAP, research and development or action research must therefore play a leading role in the field of knowledge and management of climate risks and risks. Centres of excellence have already been involved in climate change research in Burkina Faso for several decades. The following centres and institutions include, but are not limited to:
+
+-   the National Centre for Forest Seeds (CNSF);
+
+-   the International Centre for Research and Development on Livestock in Subhumid Areas (CIRDES);
+
+-   the National Centre for Scientific and Technological Research (CNRST);
+
+-   the African Centre for Scientific Research and Training (CRES);
+
+-   the Institut de Recherche pour le Développement (IRD);
+
+-   the West African Science Service Center Climate Change and Adaptation Land Use (WASCAL);
+
+-   the International Center for Forestry Research (CIFOR);
+
+-   the International Institute of Water and Environmental Engineering (2IE);
+
+-   Joseph Ki-Zerbo University of Ouagadougou;
+
+-   Thomas Sankara University of Ouagadougou;
+
+-   Polytechnic University of Bobo-Dioulasso.
+
+One could be satisfied with the existence of all these structures that work to provide information on climate change. However, because of the magnitude of the problem and its consequences on the sustainable development of Burkina Faso, it is necessary to push the level of research further. This research should focus on three fundamental options, namely:
+
+-   generating scientific knowledge on climate change to support decision-making;
+
+-   climate change mitigation measures and;
+
+-   climate change adaptation measures.
+
+In the specific case of the NAP, it is a question of conducting accompanying research programmes to provide a good understanding of the phenomenon and to formulate appropriate answers to practical questions such as:
+
+-   analysis of the vulnerability of the different regions of Burkina Faso with a view to defining adaptation measures by region;
+
+-   the projected impacts of climate change on Burkina Faso's key development sectors;
+
+-   the links between climate and society;
+
+-   the early warning system;
+
+-   prevention of environmental disasters;
+
+-   new varieties adapted to climate change;
+
+-   agroforestry;
+
+-   carbon sequestration;
+
+-   emerging and re-emerging climate-related diseases;
+
+-   the establishment of an institutional capacity building programme in connection with the implementation of the NAP;
+
+-   continuous capacity building of stakeholders on the NAP and NDC;
+
+-   the establishment of a team to evaluate the actions of the NAP by administrative decision;
+
+-   etc.
+
+## Resource mobilization
+
+For the implementation of the NAP, there is a framework for expression through the sectoral focal points in the Ministries concerned by the theme. Under the leadership of the SP/CNDD, the implementation of the NAP will be facilitated in collaboration with all thematic partners.
+
+The financing strategy for the NAP process and the implementation of climate change adaptation measures aims to identify and equip national actors with the necessary ways and means of action to ensure, on the one hand, (i) the implementation of priority adaptation measures in the medium and long term identified in the NAP, and on the other hand, (ii) the mobilization of the resources necessary for the continuous updating of the NAP process in Burkina Faso; and (iii) defining a clear, methodical and well-coordinated approach to negotiating, managing, notifying, monitoring and evaluating internal and external financing within a transparent framework.
+
+This will involve: (i) identifying potential sources of funding at the national and international levels; (ii) define criteria for the effectiveness of funding; (iii) define an efficient approach to mobilizing funding from various sources (public and private); (iv) align the support provided by technical and financial partners with the priorities of the NAP; and (v) increase domestic and external resource mobilization to promote climate-resilient development.
+
+### Financing opportunities for climate change adaptation
+
+Given the importance of resource requirements for climate change adaptation, there is a need for funding to come from a wide range of sources, public and private, bilateral, multilateral and alternative sources. There are also other sources of financing such as grants and concessional and concessional loans. Specifically, the main sources are: (i) Green Climate Fund (GCF); (ii) Adaptation Fund (AF); (iv) Global Environment Facility (GEF), (v) LIFE-AR, etc.
+
+#### State Budget
+
+The sources of funding identified to support the NAP process and its implementation in Burkina Faso include: the national budget, national funds, national private financing (financial institutions, national companies and individuals), as well as local budgets in the event that decentralization could make it possible to take climate change adaptation into account in local development planning.
+
+The country has implemented Directive No. 06/2009/CM/UEMOA on Finance Laws within the West African Economic and Monetary Union (WAEMU) of 2009. Better still, it is the first country in the West African Economic and Monetary Union (WAEMU) to have institutionalized the programme budget, i.e. a budget defined around major objectives and public policy priorities, for all ministries, in 2017. This assumes that the national contribution to the financing of the NAP will be followed up. However, there is evidence that public sector funding for the environment and direct implementation of climate policy remains low. For instance, in the 2022 fiscal year, the rural development sector, consisting of the ministries in charge of agriculture, animal resources, environment, water and sanitation, received an allocation of about 7%.
+
+#### Regional and international funding
+
+According to the OECD's Climate-related Development Finance Database, Burkina Faso received USD 465 million in 2020 from bilateral, multilateral, and private philanthropic sources for concessional and non-concessional activities (OECD, 2020). Multilateral development banks provided 57% of the total financing. The World Bank (WB), the African Development Bank (AfDB), the Islamic Development Bank (IsDB) and the European Investment Bank (EIB) are the main suppliers. Bilateral donors provided 36% of international climate finance, with France, Switzerland, Japan and Germany being the largest donors. Private donors, such as the Bill & Melinda Gates Foundation and the Dutch Postal Lottery, provided 4% of the funds, while other multilateral donors, such as the Global Environment Facility (GEF), the Green Climate Fund (GCF) and the International Fund for Agricultural Development (IFAD), provided 3%.
+
+At least 52% of the total resources received were allocated to mitigation interventions, with the top five beneficiaries being energy, agriculture, transport and other social infrastructure services. Although Burkina Faso is a country that faces a moderate risk of debt distress, it receives 55% of total international climate finance in the form of debt.
+
+Going forward (over a five-year horizon) for funding the implementation of its NAP, the country aims to increase its resource mobilization from the GCF by improving the technical and operational capacity of the GCF Designated National Authority through the support of its implementing partners: IUCN, FAO, WFP, UNDP, UN Environment (UNEP), ALG, ABV, NBA, CILSS, ECOWAS, UEMOA, AU, NEPAD and the Global Green Growth Institute (GGGI).
+
+#### Mobilizing private sector financing
+
+According to a World Bank research report, private investment is low, amounting to only USD 1.5 billion per year. Despite robust and sustained economic growth over the past two decades, averaging 6% per year, private investment is low, at 13% of GDP (World Bank, 2021).
+
+Burkina Faso's private sector investment is highly concentrated in specific sectors: mining, financial services, wholesale trade, consulting, construction, and entertainment. Private finance for decarbonisation and adaptation remains extremely low. According to the Climate Policy Initiative, climate-related private sector finance for the period 2019-2020 was approximately USD 116 million (Issuu, 2022). However, it has accelerated the development of financial products by the private sector in Burkina Faso, such as Public-Private Partnerships (PPPs) for the energy sector, green loans, sustainable investment funds and blended finance.
+
+Overall, private investment in the country is limited by the lack of bankable and attractive investment opportunities in conjunction with a poor investment climate, limited government capacity to deal with the private sector, and lack of monitoring and evaluation regimes. Thus, for the financing of its NAP in the future (over a five-year horizon), Burkina Faso aims to alleviate critical bottlenecks in the growth sector for private financing such as access to energy, transport and logistics efficiency, and the availability of human capital.
+
+### Approaches to mobilising finance
+
+**Political and technical support measures:** (i) create a favourable national environment for increasing financial flows (improvement of democracy in Burkina Faso, rules of good governance, transparency in the management of public resources and the business climate, etc.); (ii) identify a TFP as the lead agency for the exercise; (iii) develop and implement a communication strategy and (iv) create a unit for the mobilisation of available financial resources, which will have to participate in climate negotiations and major meetings of national and international financial bodies and organise side events at major climate events. The capacity of this unit in terms of climate finance mechanisms will be strengthened.
+
+**Awareness-raising and stakeholder mobilization measures:** (i) facilitate ownership by national actors through continuous awareness-raising, information, education and communication; (ii) prepare and implement a donor mobilization strategy; (iii) organize missions to TFPs and international NGOs.
+
+**Organization of the TFP Roundtable and follow-up of commitments:** (i) organize and hold a roundtable with potential national private sources of funding; (ii) organize and hold a TFP Roundtable; (iii) develop a scorecard of financial and technical commitments; and (iv) follow up on commitments from the roundtables.
+
+## Innovations of the revised NAP
+
+The country, in the innovation perspective of its revised NAP, has adopted the development of Regional Adaptation Plans (RAPs) to climate change.
+
+The Regional Adaptation Plan (PRA) is a regional plan developed to put adaptation strategies in place to address the impacts of climate change. The objective of the DRP is to identify the climate risks associated with the level of vulnerability of population groups and the different sectors of the said region and to propose adaptation plans. In addition, the implementation of the PRA should be done through a participatory process involving stakeholders, including experts, CSOs, researchers and the private sector.
+
+Most climate change adaptation plans in Burkina Faso are developed at the national level. However, there is a lack of information at the regional level and there is an urgent need for each region of Burkina Faso to have its own regional adaptation plan with the support of financial and technical partners. It is with this in mind that the SP/CNDD, with the support of its partners, conducted a study to assess the vulnerability of the population of the Boucle du Mouhoun and Plateau Central regions.
+
+The capital of this region is Ziniaré and is located 30 km from Ouagadougou (the capital of Burkina Faso). It comprises three provinces: Ganzourgou, Oubritenga and Kourwéogo. A survey was conducted in the region among experts, the public and stakeholders to identify the main climate risks and the different sectors affected by climate change. A risk and vulnerabilityassessment identified major climate risks and their impacts. The results of the study showed that the region is more exposed to droughts (late onset and early end of rainy seasons, pockets of drought and irregular rainfall), floods (including heavy rains) and high temperatures. It also helped to identify the development sectors and local populations most vulnerable to climate change. These climate risks have impacts on socio-economic activities in the region and these sectors have been prioritized according to their degree of vulnerability, including agriculture, water resources, livestock, environment and health. In addition, the study found that farmers and herders are the most vulnerable in the Central Plateau region, along with people with reduced mobility, the elderly, and women.
+
+At the end of this study, different adaptation strategies were proposed to improve the resilience of the population. This first PRA of the Central Plateau Region covers the period 2024-2028 and it will be operationalized through 44 ideas for actions and projects with an estimated cost of 5,669,080,000 (Five billion six hundred and sixty-nine million eighty thousand) FCFA in line with the Regional Development Plan. These adaptation strategies focus on three areas:
+
+1.  capacity building for DRP implementation and governance for the integration of TCA into development policies and plans;
+
+2.  improving the resilience of production sectors;
+
+3.  strengthening human capital and social protection;
+
+The Central Plateau PRA will serve as a reference point for the study of the vulnerability of climate change impacts for other regions of Burkina Faso. For monitoring, theregional council should be the institution that is responsible for monitoring and evaluating the various adaptation measures through projects. It will ensure the implementation and guidance of different strategies to ensure the effectiveness of measures to reduce the vulnerability of the population group or development sector.
+

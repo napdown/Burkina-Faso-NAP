@@ -1,0 +1,1 @@
+This is Burkina Faso's Climate Change National Adaptation Plan (NAP) (2024-2028).
